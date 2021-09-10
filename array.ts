@@ -8,6 +8,8 @@ friendSalaries.push(745876);
 friendName [1] = 'sifat';
 friendName.push('mukta');
 
+
+
 let max = 0;
 for(const salary of friendSalaries){
     if(salary > max ){
