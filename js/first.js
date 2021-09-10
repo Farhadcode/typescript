@@ -16,3 +16,15 @@ function sum(num1, num2) {
 }
 const result = sum(3, 11);
 console.log(result);
+// No retuen in a funtion .we used void 
+function multiplay(num) {
+    console.log(num * num);
+}
+// multi purpose uses 
+/* function sum(num1:number | string , num2:number|string ):number|string {
+       const value:number|string  = num1 + num2 ;
+       return value ;
+}
+const result = sum(3,11);
+console.log(result);
+ */
